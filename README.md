@@ -16,7 +16,7 @@ The Tremor Severity Detection & Assistance System is a healthcare-focused projec
 - Pandas
 - NumPy
 - Scikit-learn
-- HTML/CSS (if applicable)
+- HTML/CSS 
 
 ## Objectives
 - Assist in early tremor assessment
